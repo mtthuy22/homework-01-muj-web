@@ -1,2 +1,2 @@
 # homework-01-muj-web
-Moje osobni stranka 
+Moje osobni stranka - začátečník
